@@ -1,4 +1,4 @@
-# Community-Homes-Scraper
+# Community Homes Scraper
 
 Webscraping websites of assisted living homes and health care facilities using python selenium
 
